@@ -1,0 +1,9 @@
+Hướng dẫn cách chạy file notebook với môi trường min_ds-env:
+Bước 1: Cài đặt Anaconda/Miniconda.
+Bước 2: Tạo môi trường min_ds-env từ file "min_ds-env.yml" bằng lệnh:
+	`conda env create --file "./min_ds-env.yml"`
+Bước 3: Kích hoạt môi trường vừa mới tạo bằng lệnh:
+	`conda activate `min_ds-env`
+Bước 4: Mở Jupyter Notebook bằng lệnh:
+	`jupyter notebook`
+Bước 5: Mở notebook, chọn `Kernel` -> `Restart & Run all` để chạy toàn bộ notebook.
