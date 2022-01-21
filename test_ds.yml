@@ -1,5 +1,5 @@
 # Last update: 15/08/2021
-name: min_ds-env
+name: test_ds
 channels:
 - conda-forge
 dependencies:
